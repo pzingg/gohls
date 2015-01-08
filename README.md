@@ -15,6 +15,10 @@ Currently, binaries are available for the following platforms:
 * Windows 64-bit
 * Mac OS X 64-bit (contributed by @nlittlejohns, compiled and tested on OS X 10.9)
 
+## Building from source
+
+`go build -o gohls main.go`
+
 ## Usage, options, and defaults
 
 `gohls [-l=bool] [-t duration] [-ua user-agent] media-playlist-url output-file`
