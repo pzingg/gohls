@@ -29,6 +29,8 @@ Currently, binaries are available for the following platforms:
 
 The recording duration should be specified as a Go-compatible [duration string](http://golang.org/pkg/time/#ParseDuration).
 
+PFZ: Experimenting.
+
 ## TODO
 
 * Encrypted streams support?
